@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aditya-renake/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [2507-number-of-common-factors](https://github.com/aditya-renake/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -32,4 +33,16 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
