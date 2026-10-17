@@ -1,0 +1,12 @@
+class Solution(object):
+    def sortColors(self, nums):
+        n=len(nums)
+        for i in range(0,n):
+            min_ind=i
+            for j in range(i+1, n):
+                if nums[j]<nums[min_ind]:
+                    min_ind=j
+            nums[min_ind], nums[i]= nums[i], nums[min_ind]
+        return nums
+
+        

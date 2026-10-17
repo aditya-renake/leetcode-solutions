@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/aditya-renake/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [4299-concatenate-array-with-reverse](https://github.com/aditya-renake/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
@@ -50,9 +51,22 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditya-renake/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aditya-renake/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
