@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/aditya-renake/leetcode-solutions/tree/master/2507-number-of-common-factors) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
