@@ -29,10 +29,12 @@
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/aditya-renake/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [4299-concatenate-array-with-reverse](https://github.com/aditya-renake/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [4299-concatenate-array-with-reverse](https://github.com/aditya-renake/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
