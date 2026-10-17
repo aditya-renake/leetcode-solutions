@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aditya-renake/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aditya-renake/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
