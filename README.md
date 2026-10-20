@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1806-count-of-matches-in-tournament](https://github.com/aditya-renake/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/aditya-renake/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/aditya-renake/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## Enumeration
@@ -41,6 +42,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/aditya-renake/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [4299-concatenate-array-with-reverse](https://github.com/aditya-renake/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Dynamic Programming
