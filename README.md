@@ -10,6 +10,7 @@
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/aditya-renake/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/aditya-renake/leetcode-solutions/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/aditya-renake/leetcode-solutions/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -64,6 +65,7 @@
 | [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditya-renake/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [2481-strictly-palindromic-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-renake/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
