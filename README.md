@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/aditya-renake/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
+| [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/aditya-renake/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/aditya-renake/leetcode-solutions/tree/master/2383-add-two-integers) |
@@ -38,6 +39,7 @@
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditya-renake/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [4299-concatenate-array-with-reverse](https://github.com/aditya-renake/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Simulation
@@ -49,6 +51,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -105,4 +108,16 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+## Minimax
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
