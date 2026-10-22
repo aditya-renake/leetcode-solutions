@@ -13,6 +13,7 @@
 | [2383-add-two-integers](https://github.com/aditya-renake/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/aditya-renake/leetcode-solutions/tree/master/2507-number-of-common-factors) |
+| [4256-construct-uniform-parity-array-i](https://github.com/aditya-renake/leetcode-solutions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/aditya-renake/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [4256-construct-uniform-parity-array-i](https://github.com/aditya-renake/leetcode-solutions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4299-concatenate-array-with-reverse](https://github.com/aditya-renake/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Simulation
 |  |
