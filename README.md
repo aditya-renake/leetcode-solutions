@@ -36,6 +36,7 @@
 | [0001-two-sum](https://github.com/aditya-renake/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-renake/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-renake/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Brainteaser
 |  |
 | ------- |
