@@ -39,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-renake/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya-renake/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditya-renake/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-renake/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya-renake/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya-renake/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
