@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aditya-renake/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aditya-renake/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/aditya-renake/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-renake/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/aditya-renake/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-renake/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-renake/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aditya-renake/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
