@@ -43,6 +43,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-renake/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya-renake/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-renake/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -119,6 +120,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -163,7 +165,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
