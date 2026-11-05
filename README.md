@@ -174,7 +174,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
@@ -182,4 +182,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya-renake/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
