@@ -51,6 +51,7 @@
 | [0283-move-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aditya-renake/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
+| [1019-squares-of-a-sorted-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-renake/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aditya-renake/leetcode-solutions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -89,6 +90,7 @@
 | [0141-linked-list-cycle](https://github.com/aditya-renake/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/aditya-renake/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-renake/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 ## String
@@ -103,6 +105,7 @@
 | [0075-sort-colors](https://github.com/aditya-renake/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -174,7 +177,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
@@ -182,7 +185,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya-renake/leetcode-solutions/tree/master/0141-linked-list-cycle) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
