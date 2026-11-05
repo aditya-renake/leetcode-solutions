@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aditya-renake/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0742-to-lower-case](https://github.com/aditya-renake/leetcode-solutions/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
 | ------- |
@@ -173,7 +174,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
