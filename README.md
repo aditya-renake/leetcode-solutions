@@ -52,6 +52,7 @@
 | [0485-max-consecutive-ones](https://github.com/aditya-renake/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2048-build-array-from-permutation](https://github.com/aditya-renake/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-renake/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aditya-renake/leetcode-solutions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/aditya-renake/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [2048-build-array-from-permutation](https://github.com/aditya-renake/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/aditya-renake/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-renake/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4299-concatenate-array-with-reverse](https://github.com/aditya-renake/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
@@ -177,7 +179,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
@@ -185,7 +187,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya-renake/leetcode-solutions/tree/master/0141-linked-list-cycle) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
