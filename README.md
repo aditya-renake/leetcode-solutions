@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aditya-renake/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aditya-renake/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/aditya-renake/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aditya-renake/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/aditya-renake/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -135,6 +137,7 @@
 | ------- |
 | [0136-single-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aditya-renake/leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aditya-renake/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,7 +182,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
@@ -187,7 +190,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya-renake/leetcode-solutions/tree/master/0141-linked-list-cycle) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-renake/leetcode-solutions/tree/master/0169-majority-element) |
