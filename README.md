@@ -15,6 +15,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-renake/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aditya-renake/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/aditya-renake/leetcode-solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Array
 |  |
 | ------- |
