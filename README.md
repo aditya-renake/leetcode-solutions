@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-renake/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
