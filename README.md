@@ -24,6 +24,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/aditya-renake/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aditya-renake/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
