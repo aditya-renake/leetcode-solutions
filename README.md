@@ -25,6 +25,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aditya-renake/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/aditya-renake/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-renake/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-renake/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aditya-renake/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aditya-renake/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/aditya-renake/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
