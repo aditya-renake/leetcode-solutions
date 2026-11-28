@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2556-convert-the-temperature](https://github.com/aditya-renake/leetcode-solutions/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/aditya-renake/leetcode-solutions/tree/master/2752-sum-multiples) |
 ## Hash Table
 |  |
 | ------- |
